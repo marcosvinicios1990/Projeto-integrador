@@ -1,0 +1,71 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+header{
+    background-color: rgb(10, 177, 219); 
+    font-size: 20px;
+    border-bottom: black solid 1px;   
+}
+.btn-light{
+    position: absolute;
+    right: 50px;
+    top: -40px;
+    background-color: white;
+    border: black solid 1px;
+}
+
+.nav-link{
+    color: white;
+    position: relative;
+    top: 20px;
+}
+
+section{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.text-cachorro{
+    position: absolute;
+    left: 270px;
+    top: 420px;
+}
+
+.foto-cachorro{
+    position: absolute;
+    left: 370px;
+    top: 200px;
+}
+
+.text-gato{
+    position: absolute;
+    left: 730px;
+    top: 420px;
+}
+
+.foto-gato{
+    position: absolute;
+    left: 750px;
+    top: 230px;
+}
+
+.form-group{
+    position: absolute;
+    top: 550px;
+    left: 450px;
+}
+
+.form-group2{
+    position: absolute;
+    top: 630px;
+    left: 450px;
+}
+
+.btn-primary{
+    position: relative;
+    top: 20px;
+    width: 120px;
+    border: black solid 1px;
+}
